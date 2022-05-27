@@ -27,3 +27,5 @@
 状态转移函数：minpower=min(maxpower[i],minpower)
 
 这道题难度忒小了，不愧只值10分
+
+如果你第一次用GitHub的话，直接找上面的.cpp文件就好，代码在里面
